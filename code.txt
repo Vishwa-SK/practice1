@@ -4,6 +4,7 @@ import random
 def computer_choice():
     choices = ["rock", "paper", "scissors"]
     return random.choice(choices)
+b==2
 
 # Function to determine the winner
 def determine_winner(user, computer):
