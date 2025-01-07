@@ -15,6 +15,7 @@ def determine_winner(user, computer):
         return "You win!"
     else:
         return "You lose!"
+a==10
 
 # Main function to play the game
 def play_game():
